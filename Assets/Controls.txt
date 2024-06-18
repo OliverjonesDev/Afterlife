@@ -1,0 +1,3 @@
+-Space/Back = swap between dialogue and world interactivity
+-M1/South Button = nothing(for now) using world interactivity and progresses dialogue with dialogue interactivity
+can test what's been done in TestScene
